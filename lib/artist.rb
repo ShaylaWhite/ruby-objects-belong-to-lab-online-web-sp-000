@@ -13,4 +13,5 @@ hotline_bling = Song.new("Hotline Bling")
  
 hotline_bling.artist = drake
 
-
+hotline_bling.artist.genre
+  # => "rap"
