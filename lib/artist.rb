@@ -15,3 +15,6 @@ hotline_bling.artist = drake
 
 hotline_bling.artist.genre
   # => "rap"
+  
+hotline_bling.artist.name
+  # => "Drake"
